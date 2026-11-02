@@ -1,4 +1,4 @@
-# astrocal-dev
+# Astrocal
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,147 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-astrocal-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://astrocal.dev/
+Astrocal provides a booking page and scheduling platform for small businesses, offering live booking in minutes, calendar sync, confirmations, reminders, Stripe payments, and a full developer API for integration.
+
+**Areas:** Scheduling · Booking · API · Small Business · Payments
+
+## Astrocal on APIs.io
+
+Everything profiled for Astrocal is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/astrocal-dev/](https://apis.io/providers/astrocal-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (20)
+
+- [Astrocal Activity API](https://apis.io/apis/astrocal-dev/astrocal-dev-activity-api/) — The Activity API from Astrocal — 1 operation(s) for activity.
+- [Astrocal API Keys API](https://apis.io/apis/astrocal-dev/astrocal-dev-api-keys-api/) — The API Keys API from Astrocal — 2 operation(s) for api keys.
+- [Astrocal Availability API](https://apis.io/apis/astrocal-dev/astrocal-dev-availability-api/) — The Availability API from Astrocal — 2 operation(s) for availability.
+- [Astrocal Booking Pages API](https://apis.io/apis/astrocal-dev/astrocal-dev-booking-pages-api/) — The Booking Pages API from Astrocal — 2 operation(s) for booking pages.
+- [Astrocal Bookings API](https://apis.io/apis/astrocal-dev/astrocal-dev-bookings-api/) — The Bookings API from Astrocal — 7 operation(s) for bookings.
+- [Astrocal Branding API](https://apis.io/apis/astrocal-dev/astrocal-dev-branding-api/) — The Branding API from Astrocal — 2 operation(s) for branding.
+- [Astrocal Calendars API](https://apis.io/apis/astrocal-dev/astrocal-dev-calendars-api/) — The Calendars API from Astrocal — 7 operation(s) for calendars.
+- [Astrocal Conferencing API](https://apis.io/apis/astrocal-dev/astrocal-dev-conferencing-api/) — The Conferencing API from Astrocal — 4 operation(s) for conferencing.
+- [Astrocal Event Type Hosts API](https://apis.io/apis/astrocal-dev/astrocal-dev-event-type-hosts-api/) — The Event Type Hosts API from Astrocal — 2 operation(s) for event type hosts.
+- [Astrocal Event Types API](https://apis.io/apis/astrocal-dev/astrocal-dev-event-types-api/) — The Event Types API from Astrocal — 3 operation(s) for event types.
+- [Astrocal Organizations API](https://apis.io/apis/astrocal-dev/astrocal-dev-organizations-api/) — The Organizations API from Astrocal — 3 operation(s) for organizations.
+- [Astrocal Payments API](https://apis.io/apis/astrocal-dev/astrocal-dev-payments-api/) — The Payments API from Astrocal — 2 operation(s) for payments.
+- [Astrocal Stripe API](https://apis.io/apis/astrocal-dev/astrocal-dev-stripe-api/) — The Stripe API from Astrocal — 5 operation(s) for stripe.
+- [Astrocal Subscription API](https://apis.io/apis/astrocal-dev/astrocal-dev-subscription-api/) — The Subscription API from Astrocal — 4 operation(s) for subscription.
+- [Astrocal Support API](https://apis.io/apis/astrocal-dev/astrocal-dev-support-api/) — The Support API from Astrocal — 1 operation(s) for support.
+- [Astrocal Team API](https://apis.io/apis/astrocal-dev/astrocal-dev-team-api/) — The Team API from Astrocal — 6 operation(s) for team.
+- [Astrocal Test Data API](https://apis.io/apis/astrocal-dev/astrocal-dev-test-data-api/) — The Test Data API from Astrocal — 1 operation(s) for test data.
+- [Astrocal Usage API](https://apis.io/apis/astrocal-dev/astrocal-dev-usage-api/) — The Usage API from Astrocal — 2 operation(s) for usage.
+- [Astrocal Waitlist API](https://apis.io/apis/astrocal-dev/astrocal-dev-waitlist-api/) — The Waitlist API from Astrocal — 2 operation(s) for waitlist.
+- [Astrocal Webhooks API](https://apis.io/apis/astrocal-dev/astrocal-dev-webhooks-api/) — The Webhooks API from Astrocal — 6 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Astrocal Dev Agentic Access](https://apis.io/agentic-access/astrocal-dev/astrocal-dev-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Astrocal API Rules](https://apis.io/rules/astrocal-dev/astrocal-dev-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Astrocal Dev Authentication](https://apis.io/security/astrocal-dev/astrocal-dev-authentication/)
+- [Astrocal Dev Domain Security](https://apis.io/security/astrocal-dev/astrocal-dev-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Astrocal Dev Scopes](https://apis.io/scopes/astrocal-dev/astrocal-dev-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Astrocal Dev Plans Pricing](https://apis.io/plans/astrocal-dev/astrocal-dev-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Astrocal Dev Rate Limits](https://apis.io/rate-limits/astrocal-dev/astrocal-dev-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://astrocal.dev/)
+- [Documentation](https://www.astrocal.dev/docs)
+- [Getting started](https://www.astrocal.dev/docs)
+- [API reference](https://www.astrocal.dev/docs/api-reference)
+- [Pricing](https://www.astrocal.dev/pricing)
+- [Sign up](https://www.astrocal.dev/signup)
+- [Support](https://www.astrocal.dev/support)
+- [Changelog](https://www.astrocal.dev/changelog)
+- [Blog](https://www.astrocal.dev/articles)
+- [Terms of service](https://www.astrocal.dev/terms)
+- [Privacy policy](https://www.astrocal.dev/privacy)
+- [GitHub](https://github.com/astrocal-dev)
+
+## API Evangelist rating
+
+**Kin Score 64.6** — strong · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 45.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 49.5 |
+| Developer ergonomics | 71.4 |
+| Access clarity | 73.2 |
+
+**Agent readiness 50.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 31.3** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/astrocal-dev/](https://apis.io/providers/astrocal-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Astrocal: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/astrocal-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
